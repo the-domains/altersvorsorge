@@ -4,7 +4,7 @@
         <description><![CDATA[Wissenswerte Informationen rund um die Altersvorsorge]]></description>
         <link>https://thegrid.ai/altersvorsorge/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Jan 2016 16:38:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jan 2016 16:38:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/altersvorsorge/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -35,13 +35,6 @@
             <pubDate>Sun, 31 Jan 2016 16:19:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[iVo: Rentenlücken-App]]></title>
-            <description><![CDATA[<article><h1>iVo&colon; Rentenl&uuml;cken-App</h1></article>]]></description>
-            <link>http://ihre-rentenluecke.de/#start</link>
-            <guid isPermaLink="false">c9faf30f-c9a2-40ca-a0d5-f1c9c2b774e3</guid>
-            <pubDate>Sun, 31 Jan 2016 16:19:23 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Unklare Renteninformation für alle Bürger - ARD Plusminus]]></title>
             <description><![CDATA[<article><h1>Unklare Renteninformation für alle Bürger - ARD Plusminus</h1><p>Die Deutsche Rentenversicherung versendet jährlich eine Prognoserechnung in der den Bürgern mitgeteilt wird, wie hoch eines Tages die Rentenzahlungen sein könnten. Weil die Berechnungen schon seit Jahren in vielen Fällen viel zu optimistisch angesetzt werden ist die Plusminus-Redaktion des SWR diesen Fällen nach gegangen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/06bbe6416fd4f46ec19993f1ad740e3171d21afb.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=m7yfraTlpKA</link>
@@ -54,13 +47,6 @@
             <link>http://www.dia-vorsorge.de/quarterly-ausgaben/quarterly-4-2015altersvorsorge/fokussiert.html</link>
             <guid isPermaLink="false">631cd0cc-7ecf-4511-bcb6-d299d551c787</guid>
             <pubDate>Sun, 31 Jan 2016 16:18:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article><p>Die Lebenserwartung in Deutschland steigt&colon; Wir werden immer &auml;lter und bleiben l&auml;nger fit&period; Wir gewinnen Zeit&period; Aber wie viel eigentlich&quest;</p></article>]]></description>
-            <link>http://www.7jahrelaenger.de/</link>
-            <guid isPermaLink="false">f0dafa1a-dae1-474d-a224-f66a48cd4e35</guid>
-            <pubDate>Sun, 31 Jan 2016 16:18:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
