@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Altersvorsorge]]></title>
         <description><![CDATA[Altersvorsorge]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/altersvorsorge/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Jan 2016 16:18:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 31 Jan 2016 16:18:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/altersvorsorge/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Fokussiert - DIA Vorsorge]]></title>
+            <description><![CDATA[<article><h1>Fokussiert - DIA Vorsorge</h1><p>So relativiert sich der Wert einer Kapitalgarantie: Zugesagt wird nach Ablauf von 30 Jahren exakt die Summe von 100.000 Euro. Welche Rente dann für diesen Betrag erworben werden kann, ist wegen der Entwicklung der Zinsen und der Lebenserwartung unsicher. Die grüne Kurve zeigt, welche nominale garantierte Rentenbeträge mit welcher Wahrscheinlichkeit möglich sind.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9a766c5e5a86c14c928d7e06f77e7a12b80a0a0e.jpg"></article>]]></description>
+            <link>http://www.dia-vorsorge.de/quarterly-ausgaben/quarterly-4-2015altersvorsorge/fokussiert.html</link>
+            <guid isPermaLink="false">631cd0cc-7ecf-4511-bcb6-d299d551c787</guid>
+            <pubDate>Sun, 31 Jan 2016 16:18:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<article><p>Die Lebenserwartung in Deutschland steigt&colon; Wir werden immer &auml;lter und bleiben l&auml;nger fit&period; Wir gewinnen Zeit&period; Aber wie viel eigentlich&quest;</p></article>]]></description>
