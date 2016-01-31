@@ -1,6 +1,6 @@
 name: Altersvorsorge
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.81318
 typography_spectrum: 0.7531171762384474
 title: Wissenswerte Informationen rund um die Altersvorsorge
 cta:
@@ -22,7 +22,7 @@ color:
     - '#5e5e5e'
     - '#ffb301'
     - '#ffff00'
-  brandStrength: 1
+  brandStrength: 0.5
   lightness: 1
   saturation: 0.5
   rhythmicContrast: 0.5
