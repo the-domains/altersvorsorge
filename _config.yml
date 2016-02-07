@@ -1,4 +1,4 @@
-name: Altersvorsorge
+name: Rund um die Altersvorsorge
 favicon: null
 layout_spectrum: 0.75542
 typography_spectrum: 0.7531171762384474
@@ -22,8 +22,8 @@ color:
     - '#5d5d5d'
     - '#ffb201'
     - '#303030'
-  brandStrength: 0.5
+  brandStrength: 0.75
   lightness: 0.75
   saturation: 0.5
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.25
 purpose: []
