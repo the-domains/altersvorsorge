@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Wissenswerte Informationen rund um die Altersvorsorge]]></title>
-        <description><![CDATA[Wissenswerte Informationen rund um die Altersvorsorge]]></description>
+        <title><![CDATA[Altersvorsorge]]></title>
+        <description><![CDATA[Altersvorsorge]]></description>
         <link>https://thegrid.ai/altersvorsorge/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Jan 2016 17:05:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Feb 2016 09:52:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/altersvorsorge/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[AXA Starter-BU - Die Berufsunfähigkeitsversicherung für Auszubildende und Studenten]]></title>
-            <description><![CDATA[<article><h1>AXA Starter-BU - Die Berufsunfähigkeitsversicherung für Auszubildende und Studenten</h1><p>Unser mit viel Liebe selbst erstelltes Werbevideo zur Starter-BU der AXA, der Berufsunfähigkeitsversicherung für Studenten und Auszubildende. 100% Leistung bei nur ca. 30% Beitrag.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/939bd196f7b4179f1ade137ea276a3a8cd11d63e.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=a3LVExaTBjQ</link>
-            <guid isPermaLink="false">87829881-d5dd-4f2c-9a0c-a09739587ae3</guid>
-            <pubDate>Sun, 31 Jan 2016 17:03:53 GMT</pubDate>
+            <title><![CDATA[Angaben gemäß § 5 TMG:]]></title>
+            <description><![CDATA[<article><h1>Angaben gemäß § 5 TMG:</h1><p>Dieses Impressum gilt ebenfalls für die Venne oHG-App, und auch auch für folgende Social-Media-Profile und Webseiten: </p></article>]]></description>
+            <link>https://thegrid.ai/altersvorsorge/impressum-and-datenschutz/index.html</link>
+            <guid isPermaLink="false">461c2ba6-2991-4955-8747-87973a9718bd</guid>
+            <pubDate>Sun, 07 Feb 2016 09:50:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Werbespot "SPARKASSE-Altersvorsorge"]]></title>
@@ -50,7 +50,7 @@
         </item>
         <item>
             <title><![CDATA[iVo: Rentenlücken-App]]></title>
-            <description><![CDATA[<article><h1>iVo: Rentenlücken-App</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/27b1af1ad12570141a51120d4e8ddb4b39286b3c.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>iVo: Rentenlücken-App</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2580afe19afd51f4138d28555e139d3a2698d6b3.jpg"></article>]]></description>
             <link>http://ihre-rentenluecke.de/#luecke</link>
             <guid isPermaLink="false">b5ecc64d-61aa-48b7-b89e-21d58bdf97da</guid>
             <pubDate>Sun, 31 Jan 2016 17:05:14 GMT</pubDate>
@@ -67,13 +67,6 @@
             <description><![CDATA[<article><h1>N. Kaiser; Vorstand der BfA zur Situation der Rente</h1><p>Nicolas Kaiser, Vorstand der Bundesanstalt für Angestellte (gesetzliche Rentenveresicherung) spricht intern über die wirkliche Situation der Rentenkassen</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/94a9b6490ef55e34de43372975936ea081603bd8.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=XjAdoNVulns</link>
             <guid isPermaLink="false">75ff9dc2-0252-4680-bf16-0f64b18937c9</guid>
-            <pubDate>Sun, 31 Jan 2016 16:19:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Unklare Renteninformation für alle Bürger - ARD Plusminus]]></title>
-            <description><![CDATA[<article><h1>Unklare Renteninformation für alle Bürger - ARD Plusminus</h1><p>Die Deutsche Rentenversicherung versendet jährlich eine Prognoserechnung in der den Bürgern mitgeteilt wird, wie hoch eines Tages die Rentenzahlungen sein könnten. Weil die Berechnungen schon seit Jahren in vielen Fällen viel zu optimistisch angesetzt werden ist die Plusminus-Redaktion des SWR diesen Fällen nach gegangen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/06bbe6416fd4f46ec19993f1ad740e3171d21afb.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=m7yfraTlpKA</link>
-            <guid isPermaLink="false">4b85c70d-7ae4-420a-9809-551608b558ff</guid>
             <pubDate>Sun, 31 Jan 2016 16:19:23 GMT</pubDate>
         </item>
     </channel>
