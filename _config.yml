@@ -1,18 +1,28 @@
-analytics: {}
+name: Altersvorsorge
+favicon: null
+layout_spectrum: 0.75542
+typography_spectrum: 0.7531171762384474
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
-    - '#fd1b14'
-    - '#121212'
-    - '#5e5e5e'
-    - '#ffb301'
-    - '#ffff00'
+    - '#000000'
+    - '#fd1a13'
+    - '#5d5d5d'
+    - '#ffb201'
+    - '#303030'
   brandStrength: 0.5
-  lightness: 1
-  rhythmicContrast: 0.5
+  lightness: 0.75
   saturation: 0.5
-cta: {}
-layout_spectrum: 0.205163
-name: Altersvorsorge
-opengraph: {}
+  rhythmicContrast: 0.5
 purpose: []
-typography_spectrum: 0.7531171762384474
