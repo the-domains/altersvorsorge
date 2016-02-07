@@ -4,8 +4,15 @@
         <description><![CDATA[Interessante Informationen rund um das Thema Altersvorsorge]]></description>
         <link>https://thegrid.ai/altersvorsorge/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Feb 2016 11:37:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Feb 2016 11:52:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/altersvorsorge/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a9e8b507-74e5-487a-aed0-fd9a2ab2270c.png" alt="" title="">]]></description>
+            <link>https://thegrid.ai/altersvorsorge/9a0e440b-df93-44c8-a1b1-1a636d5da01c/index.html</link>
+            <guid isPermaLink="false">9a0e440b-df93-44c8-a1b1-1a636d5da01c</guid>
+            <pubDate>Sun, 07 Feb 2016 11:51:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Unklare Renteninformation für alle Bürger - ARD Plusminus]]></title>
             <description><![CDATA[<article><h1>Unklare Renteninformation für alle Bürger - ARD Plusminus</h1><p>Die Renteninformation führt immer wieder zu Verwirrung und Beratungsbedarf - die Inflation zu berücksichtigen ist leider auch nicht jedem Berater gegeben.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/06bbe6416fd4f46ec19993f1ad740e3171d21afb.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://t.co/ped9ddklWy</link>
             <guid isPermaLink="false">13f94b11-761d-40c6-8cfd-dfc46acad6e5</guid>
             <pubDate>Sun, 31 Jan 2016 16:45:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/49dcc4cd-9622-4bce-a1ab-df29d149e9ad.JPG">]]></description>
-            <link>http://www.7jahrelaenger.de/</link>
-            <guid isPermaLink="false">e0add1bb-6c61-4b98-b584-f290dce2fb32</guid>
-            <pubDate>Sun, 31 Jan 2016 16:37:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
