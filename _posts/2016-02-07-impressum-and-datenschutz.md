@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-07T09:50:48.934Z'
-dateModified: '2016-02-07T09:50:20.728Z'
+datePublished: '2016-02-07T10:54:22.508Z'
+dateModified: '2016-02-07T10:54:19.821Z'
 title: 'Impressum & Datenschutz'
 author: []
+sourcePath: _posts/2016-02-07-impressum-and-datenschutz.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-07-impressum-and-datenschutz.md
-published: true
 url: impressum-and-datenschutz/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Impressum & Datenschutz
