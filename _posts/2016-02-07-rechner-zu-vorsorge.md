@@ -7,8 +7,8 @@ inLanguage: de
 starred: false
 keywords: []
 description: Finanzrechner für Ihre Finanzplanung / Rechner zu Vorsorge / Online. Kostenlos. Unabhängig.
-datePublished: '2016-02-07T11:56:32.399Z'
-dateModified: '2016-02-07T11:56:27.740Z'
+datePublished: '2016-02-09T07:01:55.344Z'
+dateModified: '2016-02-09T07:01:51.344Z'
 author: []
 related: []
 app_links: []
