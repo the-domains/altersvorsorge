@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Interessante Informationen rund um das Thema Altersvorsorge]]></title>
-        <description><![CDATA[Interessante Informationen rund um das Thema Altersvorsorge]]></description>
+        <title><![CDATA[Rund um die Altersvorsorge]]></title>
+        <description><![CDATA[Rund um die Altersvorsorge]]></description>
         <link>https://thegrid.ai/altersvorsorge/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Feb 2016 07:14:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Feb 2016 05:07:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/altersvorsorge/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Sun, 07 Feb 2016 11:53:45 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[BVI 10 Rentenirrtümer]]></title>
+            <description><![CDATA[<article><h1>BVI 10 Rentenirrtümer</h1><p>Informieren Sie sich über die 10 Irrtümer der Altersvorsorge auf der Internetseite des deutschen Fondsverbands.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/23d36ee60ee9d96c8a85e20616537bed08d33856.jpg"></article>]]></description>
+            <link>http://www.bvi.de/altersvorsorge/10-rentenirrtuemer/</link>
+            <guid isPermaLink="false">7dc680bd-1f16-46a3-af6e-8d5b6063d0c4</guid>
+            <pubDate>Tue, 09 Feb 2016 05:07:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Andrea Nahles und die schöngerechnete Rente-Vorsorge - Versicherungsbote.de]]></title>
-            <description><![CDATA[<article><h1>Andrea Nahles und die schöngerechnete Rente-Vorsorge - Versicherungsbote.de</h1><p>Die Bundesregierung spricht in ihrem neuesten Rentenbericht von steigenden Altersbezügen der Ruheständler. Bis zum Jahr 2029 sollen die Renten im Schnitt um etwa zwei Prozent jährlich steigen. Kritische Sozialwissenschaftler sprechen angesichts der rechnerischen Annahmen von „beschönigenden Annahmen" der Bundesregierung. Zudem erklären diese akademischen Kontrolleure der Rentenpolitik die Drei-Säule-Theorie zur Alterssicherung für gescheitert - die Riester-Rente inklusive.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/926ea7e8165358db866b528e9e735bcf0259c321.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Andrea Nahles und die schöngerechnete Rente-Vorsorge - Versicherungsbote.de</h1><p>Die Bundesregierung spricht in ihrem neuesten Rentenbericht von steigenden Altersbezügen der Ruheständler. Bis zum Jahr 2029 sollen die Renten im Schnitt um etwa zwei Prozent jährlich steigen. Kritische Sozialwissenschaftler sprechen angesichts der rechnerischen Annahmen von „beschönigenden Annahmen" der Bundesregierung. Zudem erklären diese akademischen Kontrolleure der Rentenpolitik die Drei-Säule-Theorie zur Alterssicherung für gescheitert - die Riester-Rente inklusive.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3a44c0cd9a050456bb4ba43bfc42983d9fd6f031.png"></article>]]></description>
             <link>http://www.versicherungsbote.de/id/4834920/Rente-Nahles-Bundesregierung/</link>
             <guid isPermaLink="false">2b4dd13f-3b49-42ff-89fc-db496bd63b16</guid>
             <pubDate>Mon, 08 Feb 2016 07:13:56 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://vimeo.com/19289110</link>
             <guid isPermaLink="false">7ef1f87a-5024-4e31-a0a1-4e48c92874d1</guid>
             <pubDate>Sun, 31 Jan 2016 17:03:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Generation Y: Wenig Geld, viele Visionen, kaum Gedanken ans Alter?-Aktuelles - Versicherungsbote.de]]></title>
-            <description><![CDATA[<article><h1>Generation Y: Wenig Geld, viele Visionen, kaum Gedanken ans Alter?-Aktuelles - Versicherungsbote.de</h1><p>Generation Y: Was erwarten die heute 21 bis 35 Jährigen, wie ist ihre Finanzkraft und wie stellen sie sich ihr Leben im Alter vor? Eine Umfrage von YouGov, die der Lebensversicherer CanadaLife in Auftrag gab, erkundete die Hoffnungen und Ängste dieser Altersgruppe im Hinblick auf das Thema Altersvorsorge. ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c8908dd9ed9c1c7e126b5359a16f3e96cc95f75b.png"></article>]]></description>
-            <link>https://t.co/7KAcuuDWH9</link>
-            <guid isPermaLink="false">58930370-de07-450a-acc8-b76837ad665b</guid>
-            <pubDate>Sun, 31 Jan 2016 16:56:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
