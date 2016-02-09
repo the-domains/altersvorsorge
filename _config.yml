@@ -1,20 +1,5 @@
-name: Rund um die Altersvorsorge
-favicon: null
-layout_spectrum: 0.75542
-typography_spectrum: 0.7531171762384474
-title: Interessante Informationen rund um das Thema Altersvorsorge
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
   google: UA-73438517-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#000000'
@@ -24,6 +9,11 @@ color:
     - '#303030'
   brandStrength: 0.75
   lightness: 0.75
+  rhythmicContrast: 1
   saturation: 0.5
-  rhythmicContrast: 0.25
+cta: {}
+layout_spectrum: 0.75542
+name: Rund um die Altersvorsorge
+opengraph: {}
 purpose: []
+typography_spectrum: 0.7531171762384474
