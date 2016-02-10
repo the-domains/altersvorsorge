@@ -4,7 +4,7 @@
         <description><![CDATA[Rund um die Altersvorsorge]]></description>
         <link>https://thegrid.ai/altersvorsorge/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 06:29:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Feb 2016 06:29:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/altersvorsorge/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/altersvorsorge/9a0e440b-df93-44c8-a1b1-1a636d5da01c/index.html</link>
             <guid isPermaLink="false">9a0e440b-df93-44c8-a1b1-1a636d5da01c</guid>
             <pubDate>Sun, 07 Feb 2016 11:53:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Die richtige Altersrente für Sie]]></title>
+            <description><![CDATA[<article><h1>Die richtige Altersrente für Sie</h1><p>Wann kann ich frühestens in Rente gehen? und mit welchen Abschlägen muss ich rechnen? Diese Broschüre gibt darüber Auskunft.</p></article>]]></description>
+            <link>http://www.deutsche-rentenversicherung.de/Allgemein/de/Inhalt/5_Services/03_broschueren_und_mehr/01_broschueren/01_national/die_richtige_altersrente_fuer_sie.html</link>
+            <guid isPermaLink="false">ccdf040a-3dfb-48e3-b6a2-ad0ffb89185d</guid>
+            <pubDate>Wed, 10 Feb 2016 06:28:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rentenbeginn- und Rentenhöhenrechner]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=v4_c6pLaveM</link>
             <guid isPermaLink="false">26ee0fd1-c469-4e81-a43e-492061f9acea</guid>
             <pubDate>Sun, 07 Feb 2016 11:18:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Der Blog rund um Versicherungen und Finanzen: Vom Beta-Test zum Kundenmagazin - "The Grid" und die Altersvorsorge]]></title>
-            <description><![CDATA[<article><h1>Der Blog rund um Versicherungen und Finanzen: Vom Beta-Test zum Kundenmagazin - "The Grid" und die Altersvorsorge</h1><p>Dank dem Startup "The Grid" haben wir als Beta-Tester die Möglichkeit zukünftig interaktive Kundenmagazine zu verschiedenen Themen aufzulegen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b503844c6b593a5d8f0e1f475f7237cb577a0a5e.png"></article>]]></description>
-            <link>http://www.kundenorientiert-beraten.de/2016/02/kundenmagazin-the-grid.html</link>
-            <guid isPermaLink="false">82803ab3-85b9-4392-b7cc-46927dd92e3d</guid>
-            <pubDate>Sun, 07 Feb 2016 10:58:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
