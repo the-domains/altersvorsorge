@@ -4,11 +4,18 @@
         <description><![CDATA[Wissenswerte Informationen rund um die Altersvorsorge]]></description>
         <link>https://thegrid.ai/altersvorsorge/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Feb 2016 07:10:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Feb 2016 07:36:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/altersvorsorge/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[ ]]></title>
+            <description><![CDATA[<article><h1> </h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3c5e9f177f7e523ac16f89e63778059796613cc8.png"></article>]]></description>
+            <link>https://thegrid.ai/altersvorsorge/d4661896-c8dc-45ae-b9c7-4a8a21ad7068/index.html</link>
+            <guid isPermaLink="false">d4661896-c8dc-45ae-b9c7-4a8a21ad7068</guid>
+            <pubDate>Thu, 11 Feb 2016 07:35:06 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Rechner zu Vorsorge]]></title>
-            <description><![CDATA[<article><h1>Rechner zu Vorsorge</h1><p>Finanzrechner für Ihre Finanzplanung / Rechner zu Vorsorge / Online. Kostenlos. Unabhängig.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f967c49a78354741f77ea6bc6474c2a215ec35be.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Rechner zu Vorsorge</h1><p>Finanzrechner für Ihre Finanzplanung / Rechner zu Vorsorge / Online. Kostenlos. Unabhängig.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aa0eb3f494ab54ac1240fc72296a727442bc194d.png"></article>]]></description>
             <link>http://www.zinsen-berechnen.de/finanzrechner/vorsorge.php</link>
             <guid isPermaLink="false">1efb003d-76ef-410c-bef7-e7f089bfee26</guid>
             <pubDate>Thu, 11 Feb 2016 07:10:08 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.kundenorientiert-beraten.de/2016/01/axa-relax-rente-performance-flex.html</link>
             <guid isPermaLink="false">b63e607b-41b4-493c-860c-dd0f6571b940</guid>
             <pubDate>Thu, 11 Feb 2016 06:48:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Werbespot "SPARKASSE-Altersvorsorge"]]></title>
-            <description><![CDATA[<article><h1>Werbespot "SPARKASSE-Altersvorsorge"</h1><p>Die hatten mal richtig gute Werbung... :)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b1a84b7fc6afa41be8016afdb5ab5a1ce43e7979.jpg"></article>]]></description>
-            <link>https://vimeo.com/19289110</link>
-            <guid isPermaLink="false">7ef1f87a-5024-4e31-a0a1-4e48c92874d1</guid>
-            <pubDate>Thu, 11 Feb 2016 06:49:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
