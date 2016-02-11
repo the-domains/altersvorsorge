@@ -7,8 +7,8 @@ inLanguage: de
 starred: false
 keywords: []
 description: Informieren Sie sich über die 10 Irrtümer der Altersvorsorge auf der Internetseite des deutschen Fondsverbands.
-datePublished: '2016-02-11T06:42:03.388Z'
-dateModified: '2016-02-11T06:42:01.061Z'
+datePublished: '2016-02-11T07:09:06.830Z'
+dateModified: '2016-02-11T07:09:04.114Z'
 author: []
 related: []
 app_links: []
