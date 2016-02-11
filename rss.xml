@@ -4,18 +4,25 @@
         <description><![CDATA[Wissenswerte Informationen rund um die Altersvorsorge]]></description>
         <link>https://thegrid.ai/altersvorsorge/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Feb 2016 07:10:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Feb 2016 07:10:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/altersvorsorge/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Rechner zu Vorsorge]]></title>
+            <description><![CDATA[<article><h1>Rechner zu Vorsorge</h1><p>Finanzrechner für Ihre Finanzplanung / Rechner zu Vorsorge / Online. Kostenlos. Unabhängig.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f967c49a78354741f77ea6bc6474c2a215ec35be.png"></article>]]></description>
+            <link>http://www.zinsen-berechnen.de/finanzrechner/vorsorge.php</link>
+            <guid isPermaLink="false">1efb003d-76ef-410c-bef7-e7f089bfee26</guid>
+            <pubDate>Thu, 11 Feb 2016 07:10:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Der AXA Zukunftsplaner]]></title>
-            <description><![CDATA[<article><h1>Der AXA Zukunftsplaner</h1><p>Wer sich einmal überschlägig die Auswirkung von Inflation auf seine Rente und Ausgaben ansehen möchte, ist hier richtig.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4a8a7ea-a654-4757-93d4-0cf75d424df7.JPG"></article>]]></description>
+            <description><![CDATA[<article><h1>Der AXA Zukunftsplaner</h1><p>Wer sich einmal überschlägig die Auswirkung von Inflation auf seine Rente und Ausgaben ansehen möchte, ist hier richtig.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/338c37ecbb6e410a56ef0f3237db767ebc499987.jpg"></article>]]></description>
             <link>https://thegrid.ai/altersvorsorge/der-axa-zukunftsplaner/index.html</link>
             <guid isPermaLink="false">5ba76c2c-ed5d-43d5-9cce-1b98a282034e</guid>
             <pubDate>Thu, 11 Feb 2016 07:08:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[BVI 10 Rentenirrtümer]]></title>
-            <description><![CDATA[<article><h1>BVI 10 Rentenirrtümer</h1><p>Informieren Sie sich über die 10 Irrtümer der Altersvorsorge auf der Internetseite des deutschen Fondsverbands.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ddc6baef8bd332f80a28b76f38956c0f3ac4990a.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>BVI 10 Rentenirrtümer</h1><p>Informieren Sie sich über die 10 Irrtümer der Altersvorsorge auf der Internetseite des deutschen Fondsverbands.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/86f8940634dbbab243c3d60ae862b1a1bde82dac.jpg"></article>]]></description>
             <link>http://www.bvi.de/altersvorsorge/10-rentenirrtuemer/</link>
             <guid isPermaLink="false">7dc680bd-1f16-46a3-af6e-8d5b6063d0c4</guid>
             <pubDate>Thu, 11 Feb 2016 07:09:06 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://vimeo.com/19289110</link>
             <guid isPermaLink="false">7ef1f87a-5024-4e31-a0a1-4e48c92874d1</guid>
             <pubDate>Thu, 11 Feb 2016 06:49:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Der Blog rund um Versicherungen und Finanzen: Vom Beta-Test zum Kundenmagazin - "The Grid" und die Altersvorsorge]]></title>
-            <description><![CDATA[<article><h1>Der Blog rund um Versicherungen und Finanzen: Vom Beta-Test zum Kundenmagazin - "The Grid" und die Altersvorsorge</h1><p>Dank dem Startup "The Grid" haben wir als Beta-Tester die Möglichkeit zukünftig interaktive Kundenmagazine zu verschiedenen Themen aufzulegen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ee4b588861dcdf3e082b1e8f9bca40e8e32f10c0.png"></article>]]></description>
-            <link>http://www.kundenorientiert-beraten.de/2016/02/kundenmagazin-the-grid.html</link>
-            <guid isPermaLink="false">82803ab3-85b9-4392-b7cc-46927dd92e3d</guid>
-            <pubDate>Thu, 11 Feb 2016 06:42:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
