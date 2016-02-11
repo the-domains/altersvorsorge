@@ -7,8 +7,8 @@ inLanguage: de
 starred: false
 keywords: []
 description: 'Der Jaguar-Oldtimer war eines der Highlights bei diesem Spot, der auf einem Parkdeck in Stuttgart gedreht wurde. Am Computer wurde der komplette Hintergrund durch Aufnahmen einer Skyline digital ersetzt. Regie: Laurentius Emmelmann Kamera: Ralf Noack Compositing: Acht Frankfurt'
-datePublished: '2016-02-11T06:45:04.422Z'
-dateModified: '2016-02-09T06:56:04.337Z'
+datePublished: '2016-02-11T06:49:22.112Z'
+dateModified: '2016-02-11T06:49:18.684Z'
 author:
   - name: Prestigefilm
     url: 'http://vimeo.com/prestigefilm'
