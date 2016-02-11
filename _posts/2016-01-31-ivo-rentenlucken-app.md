@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-31T17:05:14.524Z'
-dateModified: '2016-01-31T16:55:41.720Z'
+datePublished: '2016-02-11T06:50:52.546Z'
+dateModified: '2016-02-11T06:50:49.480Z'
 author: []
 related: []
 app_links: []
@@ -25,6 +25,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/32d9ed99-4eb0-4ec4-a13c-7f5505b91757.JPG)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2580afe19afd51f4138d28555e139d3a2698d6b3.jpg)
 
 <article style=""><h1>iVo&amp;colon; Rentenlücken-App</h1></article>
