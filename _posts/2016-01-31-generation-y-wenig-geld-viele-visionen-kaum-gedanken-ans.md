@@ -7,8 +7,8 @@ inLanguage: de
 starred: false
 keywords: []
 description: 'Generation Y: Was erwarten die heute 21 bis 35 Jährigen, wie ist ihre Finanzkraft und wie stellen sie sich ihr Leben im Alter vor? Eine Umfrage von YouGov, die der Lebensversicherer CanadaLife in Auftrag gab, erkundete die Hoffnungen und Ängste dieser Altersgruppe im Hinblick auf das Thema Altersvorsorge. ...'
-datePublished: '2016-02-11T06:49:59.541Z'
-dateModified: '2016-02-11T06:49:56.997Z'
+datePublished: '2016-02-11T06:58:23.612Z'
+dateModified: '2016-02-11T06:58:21.417Z'
 author:
   - name: Stefanie Rodegast
     url: null
@@ -28,4 +28,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Generation Y: Wenig Geld, viele Visionen, kaum Gedanken ans Alter?-Aktuelles - Versicherungsbote.de</h1><p>Generation Y: Was erwarten die heute 21 bis 35 Jährigen, wie ist ihre Finanzkraft und wie stellen sie sich ihr Leben im Alter vor? Eine Umfrage von YouGov, die der Lebensversicherer CanadaLife in Auftrag gab, erkundete die Hoffnungen und Ängste dieser Altersgruppe im Hinblick auf das Thema Altersvorsorge. ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c8908dd9ed9c1c7e126b5359a16f3e96cc95f75b.png" /></article>
+<article style=""><h1>Generation Y: Wenig Geld, viele Visionen, kaum Gedanken ans Alter?-Aktuelles - Versicherungsbote.de</h1><p>Generation Y: Was erwarten die heute 21 bis 35 Jährigen, wie ist ihre Finanzkraft und wie stellen sie sich ihr Leben im Alter vor? Eine Umfrage von YouGov, die der Lebensversicherer CanadaLife in Auftrag gab, erkundete die Hoffnungen und Ängste dieser Altersgruppe im Hinblick auf das Thema Altersvorsorge. ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f680e450627d62415b3c9640e1f4e24c886e5e34.png" /></article>
