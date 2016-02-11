@@ -4,8 +4,15 @@
         <description><![CDATA[Wissenswerte Informationen rund um die Altersvorsorge]]></description>
         <link>https://thegrid.ai/altersvorsorge/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Feb 2016 07:09:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Feb 2016 07:10:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/altersvorsorge/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Der AXA Zukunftsplaner]]></title>
+            <description><![CDATA[<article><h1>Der AXA Zukunftsplaner</h1><p>Wer sich einmal überschlägig die Auswirkung von Inflation auf seine Rente und Ausgaben ansehen möchte, ist hier richtig.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4a8a7ea-a654-4757-93d4-0cf75d424df7.JPG"></article>]]></description>
+            <link>https://thegrid.ai/altersvorsorge/der-axa-zukunftsplaner/index.html</link>
+            <guid isPermaLink="false">5ba76c2c-ed5d-43d5-9cce-1b98a282034e</guid>
+            <pubDate>Thu, 11 Feb 2016 07:08:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[BVI 10 Rentenirrtümer]]></title>
             <description><![CDATA[<article><h1>BVI 10 Rentenirrtümer</h1><p>Informieren Sie sich über die 10 Irrtümer der Altersvorsorge auf der Internetseite des deutschen Fondsverbands.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ddc6baef8bd332f80a28b76f38956c0f3ac4990a.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.kundenorientiert-beraten.de/2016/02/kundenmagazin-the-grid.html</link>
             <guid isPermaLink="false">82803ab3-85b9-4392-b7cc-46927dd92e3d</guid>
             <pubDate>Thu, 11 Feb 2016 06:42:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rentenbeginn- und Rentenhöhenrechner]]></title>
-            <description><![CDATA[<article><h1>Rentenbeginn- und Rentenhöhenrechner</h1><p>In den vergangenen Jahren sind die Altersgrenzen für Altersrenten schrittweise angehoben worden. Sie haben jedoch die Möglichkeit, bestimmte Altersrenten vor dem Erreichen der regulären Altersgrenze in Anspruch zu nehmen. Wer früher die Rente beziehen will, muss in der Regel Abschläge in Kauf nehmen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1d178812c1f16929fd75d023e34bfc1265270d41.gif"></article>]]></description>
-            <link>http://www.deutsche-rentenversicherung.de/Allgemein/de/Navigation/5_Services/02_online_dienste/03_online_rechner_nutzen/rentenbeginn_hoehenrechner/Rentenbeginnrechner_node.html</link>
-            <guid isPermaLink="false">3e4a2a41-1a1f-48b1-b30a-a28c50a902d3</guid>
-            <pubDate>Wed, 10 Feb 2016 06:46:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
