@@ -17,8 +17,8 @@ keywords:
   - lebensversicherung
   - pkv
 description: 'Die Deutsche Rentenversicherung versendet jährlich eine Prognoserechnung in der den Bürgern mitgeteilt wird, wie hoch eines Tages die Rentenzahlungen sein könnten. Weil die Berechnungen schon seit Jahren in vielen Fällen viel zu optimistisch angesetzt werden ist die Plusminus-Redaktion des SWR diesen Fällen nach gegangen.'
-datePublished: '2016-02-07T11:36:32.124Z'
-dateModified: '2016-02-07T11:36:27.382Z'
+datePublished: '2016-02-11T06:48:38.334Z'
+dateModified: '2016-02-11T06:48:35.507Z'
 author:
   - name: PlanungRuhestand
     url: 'https://www.youtube.com/user/PlanungRuhestand'
