@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Hier ist er - der Sparkassen-Werbespot, das Original mit den Pferdepflegerinnen. Hat damals mächtig Ärger gebracht ... Leider nur in schlechter Qualität - für Verbesserungen wäre ich dankbar. Die Emanzipationsbewegung hat damals dazu geführt, dass der Clip sehr schnell entschärft wurde.'
-datePublished: '2016-02-07T11:18:16.199Z'
-dateModified: '2016-02-07T11:18:02.995Z'
+datePublished: '2016-02-11T06:44:29.059Z'
+dateModified: '2016-02-11T06:44:25.379Z'
 author:
   - name: meisterhanne
     url: 'https://www.youtube.com/user/meisterhanne'
@@ -16,14 +16,14 @@ author:
 related: []
 app_links: []
 title: Die Original-Sparkassen-Werbung MIT Pferdepflegerinnen
+sourcePath: _posts/2016-02-07-die-original-sparkassen-werbung-mit-pferdepflegerinnen.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://www.youtube.com/favicon.ico'
-sourcePath: _posts/2016-02-07-die-original-sparkassen-werbung-mit-pferdepflegerinnen.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
