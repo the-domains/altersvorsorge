@@ -7,8 +7,8 @@ inLanguage: de
 starred: false
 keywords: []
 description: Finanzrechner für Ihre Finanzplanung / Rechner zu Vorsorge / Online. Kostenlos. Unabhängig.
-datePublished: '2016-02-09T07:01:55.344Z'
-dateModified: '2016-02-09T07:01:51.344Z'
+datePublished: '2016-02-11T07:10:08.635Z'
+dateModified: '2016-02-11T07:10:05.384Z'
 author: []
 related: []
 app_links: []
@@ -25,4 +25,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Rechner zu Vorsorge</h1><p>Finanzrechner für Ihre Finanzplanung / Rechner zu Vorsorge / Online. Kostenlos. Unabhängig.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/96aaba79f41a6a7fa175c72db0eac04357d895da.png" /></article>
+<article style=""><h1>Rechner zu Vorsorge</h1><p>Finanzrechner für Ihre Finanzplanung / Rechner zu Vorsorge / Online. Kostenlos. Unabhängig.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b23778cc51d83ce25e8d904ae450ff8cc1207556.png" /></article>
