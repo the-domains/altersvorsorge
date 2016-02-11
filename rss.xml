@@ -4,11 +4,18 @@
         <description><![CDATA[Wissenswerte Informationen rund um die Altersvorsorge]]></description>
         <link>https://thegrid.ai/altersvorsorge/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Feb 2016 06:51:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Feb 2016 06:52:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/altersvorsorge/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Fokussiert - DIA Vorsorge]]></title>
+            <description><![CDATA[<article><h1>Fokussiert - DIA Vorsorge</h1><p>So relativiert sich der Wert einer Kapitalgarantie: Zugesagt wird nach Ablauf von 30 Jahren exakt die Summe von 100.000 Euro. Welche Rente dann für diesen Betrag erworben werden kann, ist wegen der Entwicklung der Zinsen und der Lebenserwartung unsicher. Die grüne Kurve zeigt, welche nominale garantierte Rentenbeträge mit welcher Wahrscheinlichkeit möglich sind.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3e7649be032d0c47d8e5ef0bf8baa9a01f2f257f.jpg"></article>]]></description>
+            <link>http://www.dia-vorsorge.de/quarterly-ausgaben/quarterly-4-2015altersvorsorge/fokussiert.html</link>
+            <guid isPermaLink="false">631cd0cc-7ecf-4511-bcb6-d299d551c787</guid>
+            <pubDate>Thu, 11 Feb 2016 06:52:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[iVo: Rentenlücken-App]]></title>
-            <description><![CDATA[<article><h1>iVo: Rentenlücken-App</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2580afe19afd51f4138d28555e139d3a2698d6b3.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>iVo: Rentenlücken-App</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cdf86633518d8939d036169b2e0a77afd3b3d628.jpg"></article>]]></description>
             <link>http://ihre-rentenluecke.de/#luecke</link>
             <guid isPermaLink="false">b5ecc64d-61aa-48b7-b89e-21d58bdf97da</guid>
             <pubDate>Thu, 11 Feb 2016 06:50:52 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.bvi.de/altersvorsorge/10-rentenirrtuemer/</link>
             <guid isPermaLink="false">7dc680bd-1f16-46a3-af6e-8d5b6063d0c4</guid>
             <pubDate>Thu, 11 Feb 2016 06:42:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Andrea Nahles und die schöngerechnete Rente-Vorsorge - Versicherungsbote.de]]></title>
-            <description><![CDATA[<article><h1>Andrea Nahles und die schöngerechnete Rente-Vorsorge - Versicherungsbote.de</h1><p>Die Bundesregierung spricht in ihrem neuesten Rentenbericht von steigenden Altersbezügen der Ruheständler. Bis zum Jahr 2029 sollen die Renten im Schnitt um etwa zwei Prozent jährlich steigen. Kritische Sozialwissenschaftler sprechen angesichts der rechnerischen Annahmen von „beschönigenden Annahmen" der Bundesregierung. Zudem erklären diese akademischen Kontrolleure der Rentenpolitik die Drei-Säule-Theorie zur Alterssicherung für gescheitert - die Riester-Rente inklusive.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3a44c0cd9a050456bb4ba43bfc42983d9fd6f031.png"></article>]]></description>
-            <link>http://www.versicherungsbote.de/id/4834920/Rente-Nahles-Bundesregierung/</link>
-            <guid isPermaLink="false">2b4dd13f-3b49-42ff-89fc-db496bd63b16</guid>
-            <pubDate>Mon, 08 Feb 2016 07:13:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
