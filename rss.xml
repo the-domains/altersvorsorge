@@ -4,8 +4,15 @@
         <description><![CDATA[Wissenswerte Informationen rund um die Altersvorsorge]]></description>
         <link>https://thegrid.ai/altersvorsorge/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 13 Feb 2016 09:04:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Feb 2016 09:05:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/altersvorsorge/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Das Magazin rund um Altersvorsorge]]></title>
+            <description><![CDATA[<article><h1>Das Magazin rund um Altersvorsorge</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6c1a07f3f197b8fbb592c1eb791d98de648daad5.png"></article>]]></description>
+            <link>https://thegrid.ai/altersvorsorge/das-magazin-rund-um-altersvorsorge/index.html</link>
+            <guid isPermaLink="false">b95535ee-71c4-4112-87ee-4884236ead35</guid>
+            <pubDate>Sat, 13 Feb 2016 09:05:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/372f92e5-2bd2-4f20-a7fb-f072d35e8b0f.png" alt="" title="">]]></description>
@@ -68,13 +75,6 @@
             <link>https://t.co/ped9ddklWy</link>
             <guid isPermaLink="false">13f94b11-761d-40c6-8cfd-dfc46acad6e5</guid>
             <pubDate>Thu, 11 Feb 2016 06:50:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Generation Y: Wenig Geld, viele Visionen, kaum Gedanken ans Alter?-Aktuelles - Versicherungsbote.de]]></title>
-            <description><![CDATA[<article><h1>Generation Y: Wenig Geld, viele Visionen, kaum Gedanken ans Alter?-Aktuelles - Versicherungsbote.de</h1><p>Generation Y: Was erwarten die heute 21 bis 35 Jährigen, wie ist ihre Finanzkraft und wie stellen sie sich ihr Leben im Alter vor? Eine Umfrage von YouGov, die der Lebensversicherer CanadaLife in Auftrag gab, erkundete die Hoffnungen und Ängste dieser Altersgruppe im Hinblick auf das Thema Altersvorsorge. ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5fe867da7083797f0eef435b5a586f47f7a1696e.png"></article>]]></description>
-            <link>https://t.co/7KAcuuDWH9</link>
-            <guid isPermaLink="false">58930370-de07-450a-acc8-b76837ad665b</guid>
-            <pubDate>Thu, 11 Feb 2016 06:58:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
