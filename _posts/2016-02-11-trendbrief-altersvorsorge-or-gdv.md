@@ -1,26 +1,28 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.gdv.de'
-  name: Gdv
-  favicon: 'http://www.gdv.de/favicon.ico'
-  domain: www.gdv.de
-keywords: []
-description: 'Frauen haben beim Thema Altersvorsorge erheblichen Nachholbedarf. Das hatte unter anderem die Studie „Generation Mitte" des Institutes für Demoskopie ...'
-inLanguage: de
-app_links: []
-isBasedOnUrl: 'http://www.gdv.de/tag/trendbrief-altersvorsorge/'
-title: 'trendbrief altersvorsorge | GDV'
-datePublished: '2016-02-11T15:25:44.496Z'
-dateModified: '2016-02-11T14:46:45.233Z'
-sourcePath: _posts/2016-02-11-trendbrief-altersvorsorge-or-gdv.md
-published: true
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: 'http://www.gdv.de/tag/trendbrief-altersvorsorge/'
+inLanguage: de
+starred: false
+keywords: []
+description: 'Frauen haben beim Thema Altersvorsorge erheblichen Nachholbedarf. Das hatte unter anderem die Studie „Generation Mitte" des Institutes für Demoskopie ...'
+datePublished: '2016-02-13T08:38:27.105Z'
+dateModified: '2016-02-13T08:38:24.423Z'
+author: []
+related: []
+app_links: []
+title: 'trendbrief altersvorsorge | GDV'
+sourcePath: _posts/2016-02-11-trendbrief-altersvorsorge-or-gdv.md
+published: true
+authors: []
+publisher:
+  name: Gdv
+  domain: www.gdv.de
+  url: 'http://www.gdv.de'
+  favicon: 'http://www.gdv.de/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>trendbrief altersvorsorge &amp;vert; GDV</h1><p>Frauen haben beim Thema Altersvorsorge erheblichen Nachholbedarf&amp;period; Das hatte unter anderem die Studie „Generation Mitte" des Institutes für Demoskopie &amp;period;&amp;period;&amp;period;</p><img src="http://www.gdv.de/wp-content/uploads/2013/10/GDV_trendbrief_altersvorsorge_Oktober_2013_Artikelbild_n-166x120.jpg" /></article>
+<article style=""><h1>trendbrief altersvorsorge | GDV</h1><p>Frauen haben beim Thema Altersvorsorge erheblichen Nachholbedarf. Das hatte unter anderem die Studie &amp;bdquo;Generation Mitte" des Institutes für Demoskopie ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/257133ee0e423f502f7f94ef42f5e5d008c9cf1b.jpg" /></article>
