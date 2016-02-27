@@ -1,26 +1,24 @@
 ---
+author: []
+related: []
+publisher:
+  url: 'http://www.kundenorientiert-beraten.de'
+  name: Kundenorientiert-beraten
+  favicon: 'http://www.kundenorientiert-beraten.de/favicon.ico'
+  domain: www.kundenorientiert-beraten.de
+keywords: []
+description: 'Vorsätzliche Augenwischerei im Vorsorgemarkt hat für mich ab heute einen neuen Namen: "fairriester". Anmerkung 23.2.2016: Ich stelle diesen Artikel jetzt online, wie er ist - aber er ist noch nicht fertig.'
+inLanguage: de
+app_links: []
+isBasedOnUrl: 'http://www.kundenorientiert-beraten.de/2016/02/fairriester-fairr-mylife-rentenfaktor-test-vergleich.html'
+title: 'Der Blog rund um Versicherungen und Finanzen: Fairriester-Update: Die Fairr GmbH kooperiert mit myLife und (ver)rechnet sich schön'
+datePublished: '2016-02-27T13:51:48.965Z'
+dateModified: '2016-02-27T13:51:27.469Z'
+sourcePath: _posts/2016-02-27-der-blog-rund-um-versicherungen-und-finanzen-fairriester-up.md
+published: true
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: 'http://www.kundenorientiert-beraten.de/2016/02/fairriester-fairr-mylife-rentenfaktor-test-vergleich.html'
-inLanguage: de
-starred: false
-keywords: []
-description: 'Vorsätzliche Augenwischerei im Vorsorgemarkt hat für mich ab heute einen neuen Namen: "fairriester". Anmerkung 23.2.2016: Ich stelle diesen Artikel jetzt online, wie er ist - aber er ist noch nicht fertig.'
-datePublished: '2016-02-27T13:52:02.874Z'
-dateModified: '2016-02-27T13:51:57.475Z'
-author: []
-related: []
-app_links: []
-title: 'Der Blog rund um Versicherungen und Finanzen: Fairriester-Update: Die Fairr GmbH kooperiert mit myLife und (ver)rechnet sich schön'
-sourcePath: _posts/2016-02-27-der-blog-rund-um-versicherungen-und-finanzen-fairriester-up.md
-published: true
-authors: []
-publisher:
-  name: Kundenorientiert-beraten
-  domain: www.kundenorientiert-beraten.de
-  url: 'http://www.kundenorientiert-beraten.de'
-  favicon: 'http://www.kundenorientiert-beraten.de/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
