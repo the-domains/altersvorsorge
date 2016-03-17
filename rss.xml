@@ -4,7 +4,7 @@
         <description><![CDATA[Wissenswerte Informationen rund um die Altersvorsorge]]></description>
         <link>https://thegrid.ai/altersvorsorge/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Mar 2016 07:01:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2016 07:05:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/altersvorsorge/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/altersvorsorge/3a1462c5-164b-4715-94df-33400e3d7f93/index.html</link>
             <guid isPermaLink="false">3a1462c5-164b-4715-94df-33400e3d7f93</guid>
             <pubDate>Thu, 18 Feb 2016 07:32:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Der Digitalisierungswahn hält an. Werden wir als Berater in 5 Jahren durch Apps ersetzt sein?... http://fb.me/X07D88Dr</p>]]></description>
+            <link>https://twitter.com/kundenberaten/status/707825066306887680</link>
+            <guid isPermaLink="false">bdb0451f-cdb0-4103-b7ef-3c82cf5aeecd</guid>
+            <pubDate>Thu, 17 Mar 2016 07:04:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rentenversicherung sträubt sich gegen Lebensleistungsrente]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.dia-vorsorge.de/quarterly-ausgaben/quarterly-4-2015altersvorsorge/fokussiert.html</link>
             <guid isPermaLink="false">631cd0cc-7ecf-4511-bcb6-d299d551c787</guid>
             <pubDate>Thu, 11 Feb 2016 06:52:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[iVo: Rentenlücken-App]]></title>
-            <description><![CDATA[<article><h1>iVo: Rentenlücken-App</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cdf86633518d8939d036169b2e0a77afd3b3d628.jpg"></article>]]></description>
-            <link>http://ihre-rentenluecke.de/#luecke</link>
-            <guid isPermaLink="false">b5ecc64d-61aa-48b7-b89e-21d58bdf97da</guid>
-            <pubDate>Thu, 11 Feb 2016 06:50:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
