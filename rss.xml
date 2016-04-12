@@ -4,7 +4,7 @@
         <description><![CDATA[Wissenswerte Informationen rund um die Altersvorsorge]]></description>
         <link>https://thegrid.ai/altersvorsorge/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 07:21:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2016 08:12:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/altersvorsorge/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/altersvorsorge/3a1462c5-164b-4715-94df-33400e3d7f93/index.html</link>
             <guid isPermaLink="false">3a1462c5-164b-4715-94df-33400e3d7f93</guid>
             <pubDate>Thu, 18 Feb 2016 07:32:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fast jedem zweiten Rentner droht die Altersarmut - Geld - Verbraucher - WDR]]></title>
+            <description><![CDATA[<article><h1>Fast jedem zweiten Rentner droht die Altersarmut - Geld - Verbraucher - WDR</h1><p>Jedem zweiten Bundesbürger droht wegen des sinkenden Rentenniveaus im Alter eine Rente unterhalb der Armutsgrenze. Das haben WDR-Recherchen ergeben.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/946709884c7b25ffe741ed462c18e48e456d820a.jpg"></article>]]></description>
+            <link>http://www1.wdr.de/verbraucher/geld/rente-projektion-100.html</link>
+            <guid isPermaLink="false">ebf195b0-acc6-4d4e-9d84-6f9821867ecb</guid>
+            <pubDate>Tue, 12 Apr 2016 08:12:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Der Blog rund um Versicherungen und Finanzen: Was bedeutet der Digitalisierungsglaube in der Finanzdienstleistungsbranche für uns als Berater?]]></title>
@@ -35,11 +42,11 @@
             <pubDate>Sat, 27 Feb 2016 13:51:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Rentenperspektiven 2040]]></title>
-            <description><![CDATA[<article><h1>Rentenperspektiven 2040</h1><p>Schwerpunkt Mit der Studie „Rentenperspektiven 2040" der Prognos AG gibt es erstmals einen umfassenden Überblick über die Entwicklung der gesetzlichen Renten in Deutschland. Sie zeigt, wie hoch die Renten in 25 Jahren für typische Arbeitnehmer sein werden, und was sich die Menschen dafür leisten können - und das für alle 402 Kreise und kreisfreien Städte in Deutschland.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/620696317b424532a0db21031d2b09452e286072.jpg"></article>]]></description>
-            <link>http://www.gdv.de/2015/11/rentenperspektiven-2040/</link>
-            <guid isPermaLink="false">232df419-5904-4e3e-b629-fb27983aabbd</guid>
-            <pubDate>Sat, 27 Feb 2016 12:26:29 GMT</pubDate>
+            <title><![CDATA[Der AXA Zukunftsplaner]]></title>
+            <description><![CDATA[<article><h1>Der AXA Zukunftsplaner</h1><p>Wer sich einmal überschlägig die Auswirkung von Inflation auf seine Rente und Ausgaben ansehen möchte, ist hier richtig.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2649da3ff2b2af7c5f110be278d78c2c8fc876e6.jpg"></article>]]></description>
+            <link>https://thegrid.ai/altersvorsorge/der-axa-zukunftsplaner/index.html</link>
+            <guid isPermaLink="false">5ba76c2c-ed5d-43d5-9cce-1b98a282034e</guid>
+            <pubDate>Sat, 27 Feb 2016 12:26:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[trendbrief altersvorsorge | GDV]]></title>
@@ -49,18 +56,18 @@
             <pubDate>Sat, 27 Feb 2016 12:26:42 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Rentenperspektiven 2040]]></title>
+            <description><![CDATA[<article><h1>Rentenperspektiven 2040</h1><p>Schwerpunkt Mit der Studie „Rentenperspektiven 2040" der Prognos AG gibt es erstmals einen umfassenden Überblick über die Entwicklung der gesetzlichen Renten in Deutschland. Sie zeigt, wie hoch die Renten in 25 Jahren für typische Arbeitnehmer sein werden, und was sich die Menschen dafür leisten können - und das für alle 402 Kreise und kreisfreien Städte in Deutschland.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/620696317b424532a0db21031d2b09452e286072.jpg"></article>]]></description>
+            <link>http://www.gdv.de/2015/11/rentenperspektiven-2040/</link>
+            <guid isPermaLink="false">232df419-5904-4e3e-b629-fb27983aabbd</guid>
+            <pubDate>Sat, 27 Feb 2016 12:26:29 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Rechner zu Vorsorge]]></title>
             <description><![CDATA[<article><h1>Rechner zu Vorsorge</h1><p>Finanzrechner für Ihre Finanzplanung / Rechner zu Vorsorge / Online. Kostenlos. Unabhängig.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aa0eb3f494ab54ac1240fc72296a727442bc194d.png"></article>]]></description>
             <link>http://www.zinsen-berechnen.de/finanzrechner/vorsorge.php</link>
             <guid isPermaLink="false">1efb003d-76ef-410c-bef7-e7f089bfee26</guid>
             <pubDate>Thu, 11 Feb 2016 07:10:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Der AXA Zukunftsplaner]]></title>
-            <description><![CDATA[<article><h1>Der AXA Zukunftsplaner</h1><p>Wer sich einmal überschlägig die Auswirkung von Inflation auf seine Rente und Ausgaben ansehen möchte, ist hier richtig.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2649da3ff2b2af7c5f110be278d78c2c8fc876e6.jpg"></article>]]></description>
-            <link>https://thegrid.ai/altersvorsorge/der-axa-zukunftsplaner/index.html</link>
-            <guid isPermaLink="false">5ba76c2c-ed5d-43d5-9cce-1b98a282034e</guid>
-            <pubDate>Sat, 27 Feb 2016 12:26:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[BVI 10 Rentenirrtümer]]></title>
